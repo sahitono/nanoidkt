@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nanoidkt-jvm-0.1.0a">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="nanoidkt-jvm-0.1.0a.jar">
+      <element id="module-output" name="nanoidkt.jvmMain" />
+    </root>
+  </artifact>
+</component>
